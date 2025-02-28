@@ -1,0 +1,2 @@
+# ganeshrepo
+command pratices
